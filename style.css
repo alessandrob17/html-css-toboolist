@@ -3,6 +3,10 @@ box-sizing: border-box;
 padding: 0;
 margin: 0;
 }
+body{
+    background-color: lightgrey;
+}
+
 .logo-boolean{
     width: 80px;
     vertical-align: middle;
@@ -23,5 +27,18 @@ border-radius: 10px;
     width: 100px;
     height: 35px;
     border-radius: 10px;
-    }
+}
+
+.bg-main{
+width: 1000px;
+height: 500px;
+background-color: white;
+border-radius: 10px;
+border: solid;
+border-width: 30px;
+border-color: white;
+margin: auto;
+
+}
     
+
