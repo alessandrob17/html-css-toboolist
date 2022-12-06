@@ -8,6 +8,10 @@ margin: 0;
     background-color: white;
 }
 .toboolist{
-    vertical-align: middle;
+vertical-align: 30px;
+display:inline-block;
 }
 
+body{
+    background-color: lightgrey;
+}
