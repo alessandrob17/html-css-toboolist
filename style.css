@@ -45,9 +45,22 @@ margin-top: 40px;
 
 }
 .br-tutti{
-background-color: red;
 border: solid;
 border-width: 2px;  
 border-radius: 10px;
 }
-
+.editorial{
+    background-color: lightskyblue;
+    border-radius: 10px;
+    padding: 2px;
+}
+.q1{
+    background-color: purple;
+    border-radius: 10px;
+    padding: 2px;
+}
+.recruiting{
+    background-color: green;
+    border-radius: 10px;
+    padding: 2px;
+}
