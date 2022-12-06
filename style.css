@@ -41,9 +41,13 @@ border: solid;
 border-width: 30px;
 border-color: white;
 margin: auto;
+margin-top: 40px;
 
 }
 .br-tutti{
+background-color: red;
+border: solid;
+border-width: 2px;  
 border-radius: 10px;
 }
 
