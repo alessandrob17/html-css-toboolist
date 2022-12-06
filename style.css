@@ -5,13 +5,23 @@ margin: 0;
 }
 .logo-boolean{
     width: 80px;
-    background-color: white;
-    vertical-align: top;
+    vertical-align: middle;
 }
 .toboolist{
 vertical-align: middle;
+display: inline-block;
 }
 
-body{
-    background-color: lightgrey;
+.button-1{
+background-color: lightblue;
+width: 100px;
+height: 35px;
+border-radius: 10px;
 }
+.button-2{
+    background-color: lightgray;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    }
+    
